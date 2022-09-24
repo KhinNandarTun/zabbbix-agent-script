@@ -1,5 +1,5 @@
 # zabbbix-agent-script
-This repo contains the script to install the zabbix agent installing and setting up easily
+This repo contains the script to install and set up the zabbix agent easily
 # To install the zabbix agent on client server 
 * copy the script to the client server
 * run the bash script 
